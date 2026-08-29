@@ -1,0 +1,1 @@
+# LPA จังหวัดจันทบุรี 2568–2569\n\nฐานข้อมูลแยกปี: data/2568/lpa.json, data/2568/hpa.json, data/2569/lpa.json, data/2569/hpa.json และ data/compare.json\n\nอัปโหลดทั้งโฟลเดอร์ขึ้น GitHub แล้วเปิด GitHub Pages จาก main / root
